@@ -7,16 +7,17 @@ int main() {
     string department;
     string school;
 
-    cout << "이름을 입력하세요: ";
+  ossprac2
+    cout << "이름 입력: ";
     getline(cin, name);
 
-    cout << "학번을 입력하세요: ";
+    cout << "학번 입력: ";
     getline(cin, studentID);
 
-    cout << "학과를 입력하세요: ";
+    cout << "학과 입력: ";
     getline(cin, department);
 
-    cout << "학교를 입력하세요: ";
+    cout << "학교 입력: ";
     getline(cin, school);
 
     cout << "\n[출력 결과]" << endl;
