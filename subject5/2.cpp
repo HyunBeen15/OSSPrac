@@ -7,6 +7,7 @@ int main() {
     string department;
     string school;
 
+  ossprac2
     cout << "이름 입력: ";
     getline(cin, name);
 
